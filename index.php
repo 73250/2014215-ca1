@@ -24,6 +24,9 @@ function sendToDatabase(){
     SID: <input type="text" id = "sid"/>
     
     <button onclick="sendToDatabase()">Send Details!</button>
-
+	
+<?php
+echo "Hello world";
+?> 
 
 </html>
